@@ -1,5 +1,5 @@
 safe: true
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'serve.sh', 'article.png', 'sync.sh', 'LICENSE']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'serve.sh', 'article.png', 'sync.sh', 'LICENSE', 'private']
 baseurl: /paper-now
 imports:
     - https://refgenomics.github.io/research-article/components/research-article/research-article.html
